@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LackeyWars", "LackeyWars\LackeyWars\LackeyWars.csproj", "{FD6F442E-83C2-4AC8-AD96-78291A8DB355}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "LackeyWarsContent", "LackeyWars\LackeyWarsContent\LackeyWarsContent.contentproj", "{110A1038-014E-4EB3-AE81-244C5829F9BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD6F442E-83C2-4AC8-AD96-78291A8DB355}.Debug|x86.ActiveCfg = Debug|x86
+		{FD6F442E-83C2-4AC8-AD96-78291A8DB355}.Debug|x86.Build.0 = Debug|x86
+		{FD6F442E-83C2-4AC8-AD96-78291A8DB355}.Release|x86.ActiveCfg = Release|x86
+		{FD6F442E-83C2-4AC8-AD96-78291A8DB355}.Release|x86.Build.0 = Release|x86
+		{110A1038-014E-4EB3-AE81-244C5829F9BB}.Debug|x86.ActiveCfg = Debug|x86
+		{110A1038-014E-4EB3-AE81-244C5829F9BB}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
